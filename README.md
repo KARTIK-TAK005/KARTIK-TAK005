@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KARTIK-TAK_005
-- 👀 I’m interested in the field of Artificial Intelligence domain.
-- 🌱 I’m currently learning machine learning and artificial neural network.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in the field of Artificial Intelligence and its subseets.
+- 🌱 I’m currently enrolled in AI field, learning about them.
+- 💞️ I’m looking to collaborate on few projects. Reach out to me by below provided gmail.
 - 📫 How to reach me ... To reach me mail me on kartiktak05@gmail.com
 
 <!---
